@@ -1,37 +1,25 @@
-# Hi, I am Ayaan Ali!
+# Hi, I'm Ayaan Ali
 
-## About Me
+B.Tech Student at K.R. Mangalam University
 
-- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
-
-- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
-
-- Interested in: [Cybersecurity / AI-ML / Full-Stack Development / Data Science]
+Interested in software development, programming, Linux and embedded systems.
 
 ## Technical Skills
 
 | Category | Technologies |
-
-|------------|-----------------------------------------------------|
-
-| Languages | Python (Beginner), Bash / Shell Scripting |
-
-| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
-
-| Concepts | File Systems, Process Management, REST APIs, Markdown |
+|---|---|
+| Programming | Python, C, C++ |
+| Web Development | HTML, CSS, JavaScript |
+| Tools | Git, GitHub, VS Code |
+| Operating Systems | Linux, Windows |
+| Embedded Systems | Arduino, ESP32 |
+| APIs | REST APIs, JSON, curl, jq |
 
 ## Featured Projects
 
-- [CSE103 Lab — LAB 3](https://github.com/ayaanali03/cse103-lab-LAB3)
-
-Git workflows, API interaction, and Markdown documentation
-
-## Currently Working On
-
-- Semester 1 lab projects and building daily problem-solving habits
+- **[DeveloperPortfolio](https://github.com/ayaanali03/DeveloperPortfolio)** – Personal developer portfolio containing technical documentation, automation scripts, API experiments and projects.
 
 ## Connect With Me
 
-- LinkedIn : www.linkedin.com/in/ayaan-ali-9b6853356
-
-- Email : 2601730076@krmu.edu.in
+- GitHub: https://github.com/ayaanali03
+- LinkedIn: www.linkedin.com/in/ayaan-ali-9b6853356
